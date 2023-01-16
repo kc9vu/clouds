@@ -1,0 +1,23 @@
+DOMAIN,links.services.disqus.com
+DOMAIN,ads-api.ft.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging-pa.mihoyo.com
+
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,inspps.appsflyer.com
+DOMAIN-SUFFIX,cedexis-test.com
+DOMAIN-SUFFIX,ads-pixiv.com
+DOMAIN-SUFFIX,ptcfc.com
+DOMAIN-SUFFIX,btrace.qq.com
+
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,umeng
+
+# Maybe rejecting
+DOMAIN,exp-tas.com
+DOMAIN,trafficmanager.net
+DOMAIN-SUFFIX,sshs.rip
+
