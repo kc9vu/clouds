@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,cedexis-test.com
 DOMAIN-SUFFIX,ads-pixiv.com
 DOMAIN-SUFFIX,ptcfc.com
 DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,trackingio.com
 
 DOMAIN-KEYWORD,adsserving
 DOMAIN-KEYWORD,umeng

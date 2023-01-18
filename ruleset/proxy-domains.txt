@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,pythonanywhere.com
 DOMAIN,ascii2d.net
 DOMAIN,e-shuushuu.net
 DOMAIN,gelbooru
+DOMAIN,www.iqdb.org
 DOMAIN,chan.sankakucomplex.com
 DOMAIN,saucenao.com
 DOMAIN,yande.re
