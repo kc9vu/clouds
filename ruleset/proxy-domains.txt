@@ -90,9 +90,6 @@ DOMAIN-SUFFIX,yandex.ru
 
 # Porn website
 # 97il.com
-DOMAIN,te8z7.com
-DOMAIN,te8z8.com
-DOMAIN,ti6b9.com
 DOMAIN,3u4u5u6u.com
 DOMAIN,busjav.cam
 DOMAIN,superchat.live
@@ -104,6 +101,10 @@ DOMAIN,xn--fiqy0hdzah33i.com
 DOMAIN-SUFFIX,xctianyuan.com
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,cdn1122.com
+DOMAIN-SUFFIX,te8z7.com
+DOMAIN-SUFFIX,te8z8.com
+DOMAIN-SUFFIX,ti6b9.com
+DOMAIN-SUFFIX,ti6c6.com
 
 DOMAIN,www.coursera.org
 DOMAIN,coveralls.io
