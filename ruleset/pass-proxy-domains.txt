@@ -1,4 +1,6 @@
+DOMAIN,czzy01.com
 DOMAIN,www.pixivision.net
+DOMAIN,cdn.staticfile.org
 DOMAIN,www.yinfans.me
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,hdslb.com
@@ -6,3 +8,5 @@ DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,7167a.com
+DOMAIN-SUFFIX,c-zzy.online
