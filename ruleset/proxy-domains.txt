@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,yandex.ru
 DOMAIN,3u4u5u6u.com
 DOMAIN,busjav.cam
 DOMAIN,superchat.live
+DOMAIN-SUFFIX,bd-friend.com
 DOMAIN-SUFFIX,ceshi963ly.com
 DOMAIN-SUFFIX,fhwr.net
 DOMAIN-SUFFIX,motherlessmedia.com
@@ -119,6 +120,7 @@ DOMAIN,stsci-opo.org
 DOMAIN,trace.moe
 DOMAIN,rsms.me
 DOMAIN,www.shuyz.com
+DOMAIN,spyroom-anime.com
 DOMAIN,webbtelescope.org
 DOMAIN,wechat2rss.xlab.app
 DOMAIN-SUFFIX,1e100cdn.net
