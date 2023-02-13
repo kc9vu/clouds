@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mxwljsq.com
 DOMAIN-SUFFIX,nocodeflow.net
 DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,pcworld.com
 DOMAIN-SUFFIX,pepy.tech
 DOMAIN-SUFFIX,pixiv.help
 DOMAIN-SUFFIX,polyfill.io
