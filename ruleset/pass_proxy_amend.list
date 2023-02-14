@@ -3,8 +3,8 @@ DOMAIN,czzy01.com
 DOMAIN,www.pixivision.net
 DOMAIN,cdn.staticfile.org
 DOMAIN,www.addtelegrammember.com
-DOMAIN,www.yinfans.me
 
+DOMAIN-SUFFIX,yinfans.me
 DOMAIN-SUFFIX,7167a.com
 DOMAIN-SUFFIX,atoolbox.net
 DOMAIN-SUFFIX,bilibili.com
@@ -20,5 +20,6 @@ DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,youxiaohou.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,328888.xyz
+DOMAIN-SUFFIX,spot.im
 
 DOMAIN-SUFFIX,cn
