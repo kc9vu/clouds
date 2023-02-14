@@ -1,0 +1,16 @@
+
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
+
+DOMAIN,c.apple.news,PROXY
+DOMAIN,itun.es,PROXY
+DOMAIN-SUFFIX,apple.com,PROXY
+DOMAIN-SUFFIX,apple-mapkit.com,PROXY
+DOMAIN-SUFFIX,cdn-apple.com,PROXY
+DOMAIN-SUFFIX,icloud.com,PROXY
+DOMAIN-SUFFIX,icloud-content.com,PROXY
+DOMAIN-SUFFIX,itunes.com,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
+
