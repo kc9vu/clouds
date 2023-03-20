@@ -4,6 +4,7 @@ DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging-pa.mihoyo.com
+DOMAIN,sensordata.cmcc.cn
 
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,aliapp.org
@@ -13,6 +14,9 @@ DOMAIN-SUFFIX,ads-pixiv.com
 DOMAIN-SUFFIX,ptcfc.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,trackingio.com
+DOMAIN-SUFFIX,boxuu.com
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,hugedomains.com
 
 DOMAIN-KEYWORD,adsserving
 DOMAIN-KEYWORD,umeng
