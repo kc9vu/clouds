@@ -3,7 +3,7 @@ DOMAIN,ads-api.ft.com
 DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.mihoyo.com
+# DOMAIN,firebaselogging-pa.mihoyo.com # 拦截会导致公告等内容加载缓慢
 DOMAIN,sensordata.cmcc.cn
 
 DOMAIN-SUFFIX,addthis.com
