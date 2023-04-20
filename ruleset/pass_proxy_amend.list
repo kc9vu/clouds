@@ -26,5 +26,6 @@ DOMAIN-SUFFIX,xszys.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,linuxmi.com
 
-DOMAIN-SUFFIX,cn
 
+# 本应拦截，但会导致加载失败
+DOMAIN,acs.m.taobao.com
