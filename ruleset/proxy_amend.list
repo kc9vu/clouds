@@ -12,6 +12,8 @@ DOMAIN,99nvse.us
 DOMAIN,www.dm0.cc
 DOMAIN,www.nunuyy5.org
 DOMAIN,99nvse.us
+DOMAIN,iqdb.org
+DOMAIN,www.czspp.com
 
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,baidu-aliyun.top
@@ -35,6 +37,11 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,cdn1122.com
 DOMAIN-SUFFIX,odycdn.com
 DOMAIN-SUFFIX,motherlessmedia.com
+DOMAIN-SUFFIX,toshl.com
+DOMAIN-SUFFIX,quosmos.com
+DOMAIN-SUFFIX,teamcore.us
 
 DOMAIN-SUFFIX,rs
 
+USER-AGENT,Subs*
+USER-AGENT,Bobby2*
