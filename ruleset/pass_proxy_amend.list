@@ -25,6 +25,8 @@ DOMAIN-SUFFIX,ayxbk.com
 DOMAIN-SUFFIX,xszys.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,linuxmi.com
+DOMAIN-SUFFIX,owenyound.com
+DOMAIN-SUFFIX,shuyz.com
 
 
 # 本应拦截，但会导致加载失败
