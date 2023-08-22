@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,linuxmi.com
 DOMAIN-SUFFIX,owenyound.com
 DOMAIN-SUFFIX,shuyz.com
+DOMAIN-SUFFIX,speedtest.net
 
 
 # 本应拦截，但会导致加载失败
