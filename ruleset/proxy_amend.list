@@ -13,6 +13,8 @@ DOMAIN,www.dm0.cc
 DOMAIN,www.nunuyy5.org
 DOMAIN,99nvse.us
 DOMAIN,www.czspp.com
+DOMAIN,steam.tv
+DOMAIN,steamhost.info
 
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,baidu-aliyun.top
@@ -42,6 +44,17 @@ DOMAIN-SUFFIX,teamcore.us
 DOMAIN-SUFFIX,iqdb.org
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,hungerstation.com
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,voipraider.com
+DOMAIN-SUFFIX,tiangolo.com
+DOMAIN-SUFFIX,indream.app
+DOMAIN-SUFFIX,sqlalchemy.org
+
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,appcnt.com
+DOMAIN-SUFFIX,herewetest.com
 
 DOMAIN-SUFFIX,rs
 
