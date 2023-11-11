@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,cn
 
 DOMAIN,czzy01.com
 DOMAIN,cdn.staticfile.org
@@ -6,18 +7,18 @@ DOMAIN,www.yinfans.me
 
 DOMAIN-SUFFIX,7167a.com
 DOMAIN-SUFFIX,atoolbox.net
-DOMAIN-SUFFIX,bilibili.com
+# DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,c-zzy.online
-DOMAIN-SUFFIX,caiyunapp.com
-DOMAIN-SUFFIX,hdslb.com
+# DOMAIN-SUFFIX,caiyunapp.com
+# DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,ipv6-test.com
-DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,kugou.com
+# DOMAIN-SUFFIX,ithome.com
+# DOMAIN-SUFFIX,jd.com
+# DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,py1080p.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,youxiaohou.com
-DOMAIN-SUFFIX,zhimg.com
+# DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,328888.xyz
 DOMAIN-SUFFIX,spot.im
 DOMAIN-SUFFIX,wujinpp.com

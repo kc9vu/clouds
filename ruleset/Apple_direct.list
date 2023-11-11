@@ -1,6 +1,6 @@
 
 USER-AGENT,com.apple.appstored*
-USER-AGENT,Music*
+# USER-AGENT,Music*
 USER-AGENT,com.apple.trustd*
 
 DOMAIN,api-adservices.apple.com,REJECT
