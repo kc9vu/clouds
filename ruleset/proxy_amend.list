@@ -1,8 +1,3 @@
-IP-CIDR,8.8.8.8
-IP-CIDR,8.8.4.4
-IP-CIDR,1.1.1.1
-IP-CIDR,1.0.0.1
-
 DOMAIN,fuqing.ch
 DOMAIN,fuqing.cz
 DOMAIN,kanliao.one
@@ -79,6 +74,8 @@ DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,realpython.com
 DOMAIN-SUFFIX,iframe.ly
 DOMAIN-SUFFIX,mch3.com
+DOMAIN-SUFFIX,pcpartpicker.com
+DOMAIN-SUFFIX,stocard.de
 
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
@@ -87,6 +84,8 @@ DOMAIN-SUFFIX,herewetest.com
 DOMAIN-SUFFIX,m3u8111222333.com
 DOMAIN-SUFFIX,pic111222333.com
 DOMAIN-SUFFIX,comcom008.com
+DOMAIN-SUFFIX,xleiso.com
+DOMAIN-SUFFIX,xhlive.cam
 
 DOMAIN-SUFFIX,rs
 
