@@ -1,10 +1,7 @@
 
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 
-DOMAIN,c.apple.news,PROXY
 DOMAIN,itun.es,PROXY
 DOMAIN-SUFFIX,apple.com,PROXY
 DOMAIN-SUFFIX,apple-mapkit.com,PROXY
