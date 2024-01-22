@@ -3,6 +3,15 @@ USER-AGENT,com.apple.appstored*
 # USER-AGENT,Music*
 USER-AGENT,com.apple.trustd*
 
+DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,swallow.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+
 DOMAIN,api-adservices.apple.com,REJECT
 DOMAIN,a1.mzstatic.com
 DOMAIN,a2.mzstatic.com
@@ -70,10 +79,6 @@ DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,images.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
-DOMAIN,init-p01st-lb.push-apple.com.akadns.net
-DOMAIN,init-p01st.push.apple.com
-DOMAIN,init-s01st-lb.push-apple.com.akadns.net
-DOMAIN,init-s01st.push.apple.com
 DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN,iphone-ld.apple.com
 DOMAIN,is1-ssl.mzstatic.com
