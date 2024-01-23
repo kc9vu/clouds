@@ -3,8 +3,10 @@ USER-AGENT,com.apple.appstored*
 # USER-AGENT,Music*
 USER-AGENT,com.apple.trustd*
 
-DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,ocsp.apple.com
 DOMAIN,swallow.apple.com
+DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,smp-device-content.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
@@ -68,6 +70,7 @@ DOMAIN,gspe19-cn-ssl.ls.apple.com
 DOMAIN,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN,gspe19-cn.ls.apple.com
 DOMAIN,gspe79-cn.ls.apple.com
+DOMAIN,gspe79-cn-ssl.ls.apple.com
 DOMAIN,gspe21-ssl.ls.apple.com
 DOMAIN,gspe21.ls.apple.com
 DOMAIN,gspe35-ssl.ls.apple.com
