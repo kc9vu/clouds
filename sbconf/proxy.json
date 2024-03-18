@@ -1,0 +1,6 @@
+{
+  "log": {
+    "enabled": true,
+    "timestamp": false
+  }
+}
