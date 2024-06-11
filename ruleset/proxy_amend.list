@@ -17,6 +17,7 @@ DOMAIN,dev.to
 DOMAIN,lit.link
 DOMAIN,jacobpadilla.com
 DOMAIN,baincapitalventures.com
+DOMAIN,sequoia.apple.com
 
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,baidu-aliyun.top
@@ -83,6 +84,10 @@ DOMAIN-SUFFIX,c-tv.tv
 DOMAIN-SUFFIX,sms-activate.org
 DOMAIN-SUFFIX,pcdn.co
 DOMAIN-SUFFIX,stardewvalleywiki.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,quantserve.com
+DOMAIN-SUFFIX,stripchatgirls.com
+DOMAIN-SUFFIX,myunidays.com
 
 DOMAIN-SUFFIX,asmrgay.com
 DOMAIN-SUFFIX,liveperson.net
